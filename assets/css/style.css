@@ -5,7 +5,7 @@ body{
 }
 
 
-}
+
 #pp{
     width: 230px;
     height: 160px;
@@ -79,8 +79,8 @@ body{
  }
 
 .cv-block.block-intro .avatar{
-    width: 177px;
-    height: 178px;
+    width: 190px;
+    height: 290px;
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
